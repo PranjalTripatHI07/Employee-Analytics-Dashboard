@@ -129,10 +129,4 @@ Each task includes corresponding Tableau visualizations:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📞 Contact
 
-For questions or collaboration opportunities, please reach out!
-
----
-
-*Built with ❤️ using MySQL and Tableau*
